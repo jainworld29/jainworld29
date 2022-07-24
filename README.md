@@ -13,7 +13,7 @@
 
 - 📫 Contact me at **[`jainshweta290204@gmail.com`](mailto:jainshweta290204@gmail.com)**
 
-- 👬 My partners: <a href="https://github.com/syed-saqib" style="text-decoration:none;">`Syed`</a> & <a href="https://github.com/himashii">`Himanshi`</a>
+- 👬 My partners: <a href="https://github.com/syed-saqib" style="text-decoration:none;">`Syed`</a> & <a href="https://github.com/himanshii">`Himanshi`</a>
 
 - ⚡ Other interest : `` `Exploring the World!`
 
