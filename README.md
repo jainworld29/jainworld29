@@ -9,7 +9,7 @@
 > <h3 align="left"></h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jainworld29&label=Profile%20views&color=blue&style=flat" alt="Shweta-Jain" /> </p>
 
-- 🌱 I’m currently doing .
+- 🌱 I’m currently doing DSA with C++.
 
 - 📫 Contact me at **[`jainshweta290204@gmail.com`](mailto:jainshweta290204@gmail.com)**
 
